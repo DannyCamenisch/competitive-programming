@@ -2,8 +2,10 @@
 Solutions to problems from various online judges / contest sites.
 
 
-It includes solutions to both practice and contest problems from:
+This repository includes solutions to both practice and contest problems from:
 - Kattis ([site](https://open.kattis.com/))
+
+Additionally this repository also includes the templates I use.
 
 This repository is personal, made public in the hope that someone may find it useful, but:
 - Solutions may be broken or not work for you.
