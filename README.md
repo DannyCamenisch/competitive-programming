@@ -23,5 +23,5 @@ please let me know and I'll fix it.
 
 Except for borrowed code (and whatever borrowing that code implies),
 unless otherwise stated,
-the code is under the _Do What The Fuck You Want To Public License_,
+the code is under the _The Unlicense_,
 see [LICENSE](LICENSE) for details.
