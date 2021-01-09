@@ -1,6 +1,4 @@
 # Competitive Programming
-Solutions to problems from various online judges / contest sites.
-
 
 This repository includes solutions to both practice and contest problems from:
 - Kattis ([site](https://open.kattis.com/))
