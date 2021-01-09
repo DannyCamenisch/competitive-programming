@@ -6,7 +6,7 @@ public class Main {
         Main m = new Main();
         
         while(in.hasNext()) {
-          m.run();
+          m.run(in);
         }
         
         in.close();
