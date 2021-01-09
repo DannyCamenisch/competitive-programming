@@ -7,7 +7,7 @@ public class R2 {
         R2 m = new R2();
         
         while(in.hasNext()) {
-          m.run();
+          m.run(in);
         }
         
         in.close();

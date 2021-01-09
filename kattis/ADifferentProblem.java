@@ -6,14 +6,14 @@ public class ADifferentProblem {
         Scanner in = new Scanner(System.in);
         ADifferentProblem m = new ADifferentProblem();
         
-        while(in.hasNext) {
-            m.run;
+        while(in.hasNext()) {
+            m.run(in);
         }
         
         in.close();
     }
     
     private void run(Scanner in) {
-      System.out.println(Math.abs(in.nextLong() - in.nextLong()));
+        System.out.println(Math.abs(in.nextLong() - in.nextLong()));
     }
 }

@@ -6,7 +6,7 @@ public class TakeTwoStones {
         TakeTwoStones m = new TakeTwoStones();
         
         while(in.hasNext()) {
-          m.run();
+          m.run(in);
         }
         
         in.close();
