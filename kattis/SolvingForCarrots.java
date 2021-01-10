@@ -13,7 +13,7 @@ public class SolvingForCarrots {
     }
     
     private void run(Scanner in) {
-        int N = in.nextInt();
+        in.nextInt();
         int P = in.nextInt();
 
         System.out.println(P);
