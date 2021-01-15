@@ -2,6 +2,7 @@
 
 This repository includes solutions to both practice and contest problems from:
 - Kattis ([site](https://open.kattis.com/))
+- Codeforces ([site](https://codeforces.com))
 
 Additionally this repository also includes the templates I use.
 
