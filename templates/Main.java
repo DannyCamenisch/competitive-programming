@@ -13,6 +13,6 @@ public class Main {
     }
     
     private void run(Scanner in) {
-      // TODO: insert code
+      // insert code
     }
 }
